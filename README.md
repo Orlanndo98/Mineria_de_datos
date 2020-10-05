@@ -14,3 +14,6 @@ Clase Mineria de datos
 
 [Ejercicio 1 Apriori](https://github.com/Orlanndo98/Mineria_de_datos/blob/master/A%20priori.ipynb)
 
+[Resumenes](https://github.com/Orlanndo98/Mineria_de_datos/issues/5)
+
+[Resumenes Descargar](https://github.com/Orlanndo98/Mineria_de_datos/files/5328821/Resumenes__1668598.pdf)
