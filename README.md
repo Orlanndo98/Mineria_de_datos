@@ -17,3 +17,7 @@ Clase Mineria de datos
 [Resumenes](https://github.com/Orlanndo98/Mineria_de_datos/issues/5)
 
 [Resumenes Descargar](https://github.com/Orlanndo98/Mineria_de_datos/files/5328821/Resumenes__1668598.pdf)
+
+[Mapa Mental II](https://github.com/Orlanndo98/Mineria_de_datos/issues/6)
+
+[Mapa Mental II Descarga](https://github.com/Orlanndo98/Mineria_de_datos/files/5330886/MapaMental_2_1668598.pdf)
