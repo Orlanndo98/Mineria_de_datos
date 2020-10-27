@@ -1,7 +1,6 @@
 # Mineria_de_datos
 
-##Fase I
-
+## Fase I
 
 [Mapa Mental I](https://github.com/Orlanndo98/Mineria_de_datos/issues/3)
 
@@ -16,7 +15,7 @@
 [Mapa Mental II](https://github.com/Orlanndo98/Mineria_de_datos/issues/6)
 
 
-##Fase II
+## Fase II
 
 [Analisis de las bases de datos](https://github.com/Orlanndo98/Mineria_de_datos/issues/7)
 
