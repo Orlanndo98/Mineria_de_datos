@@ -21,3 +21,5 @@ Fase II
 [Analisis de las bases de datos](https://github.com/Orlanndo98/Mineria_de_datos/issues/7)
 
 [Ejercicios prácticos de python](https://github.com/Orlanndo98/Mineria_de_datos/blob/master/Ejercicios%20paython.ipynb)
+
+[Avance I Proyecto Integrador](https://github.com/Orlanndo98/Mineria_de_datos/blob/master/Avance1-PIA_Equipo%204_012.pdf)
