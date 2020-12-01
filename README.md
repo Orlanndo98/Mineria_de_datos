@@ -27,4 +27,6 @@
 
 ## Fase III
 
-[Avance II Proyecto Integrador]()
+[Avance II Proyecto Integrador](https://github.com/SeleneRdzG/FCFM/blob/master/AvancePIA_II_4.ipynb)
+
+[PIA](https://github.com/SeleneRdzG/FCFM/blob/master/PIA_4_012.pdf)
